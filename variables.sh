@@ -1,3 +1,4 @@
 #!/bin/bash
 name="Dawlatzai"
-echo "Hi there $name"
+greeting="Hello"
+echo "$greeting $name"
