@@ -3,4 +3,3 @@
 function hello(){
 echo "Hello $1!"
 }
-hello Dawlatzai
